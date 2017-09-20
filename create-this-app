@@ -4,7 +4,7 @@
 
 
 BSP_DIR=C:/Users/martin.nowak/Documents/FPGA/InterruptsNIOS_bsp/
-QUARTUS_PROJECT_DIR=C:/Users/martin.nowak/Desktop/University_Program/Computer_Systems/DE2-115/DE2-115_Media_Computer/verilog/
+QUARTUS_PROJECT_DIR=C:/Users/martin.nowak/Desktop/
 NIOS2_APP_GEN_ARGS="--elf-name InterruptsNIOS.elf --no-src --set OBJDUMP_INCLUDE_SOURCE 1"
 
 
